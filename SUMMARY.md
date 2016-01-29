@@ -23,4 +23,10 @@
    * [商品评论管理](market/comment.md)
    * [用户统计](market/usercount.md)
    * [订单统计](market/ordercount.md)
+* [网站模块相关操作](site/README.md)
+   * [栏目管理](site/manul.md)
+   * [内容管理](site/content.md)
+* [核心模块相关操作](core/README.md)
+   * [应用管理](core/app.md)
+   * [管理员管理](core/sysmanager.md)
 
